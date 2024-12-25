@@ -1,0 +1,17 @@
+# Maven build directory
+target/
+
+# IDE files
+.idea/
+*.iml
+*.form
+
+# Compiled files
+*.class
+
+# Serialized data
+null/
+*.ser
+
+# Mac system files
+.DS_Store
